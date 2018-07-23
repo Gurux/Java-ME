@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mtjMetadata jad="gurux.dlms.me.jad" version="1.2.2.201110240906">
+   <device group="Oracle Java(TM) Platform Micro Edition SDK 3.4" name="IMPNGDevice1"/>
+   <signing projectSpecific="false" signProject="false">
+      <alias/>
+   </signing>
+   <configurations>
+      <configuration active="true" name="IMPNGDevice1">
+         <device group="Oracle Java(TM) Platform Micro Edition SDK 3.4" name="IMPNGDevice1"/>
+         <symbolSet name="IMPNGDevice1">
+            <symbol name="Logging" value="1.0"/>
+            <symbol name="apis.supported" value="AMS-1.0,DEVICE_ACCESS-1.0,J2ME-WS-1.0,JSR179-1.0,JSR280-1.0,JSR75-1.0,Logging-1.0,OMDA_AP-1.0,SATSA-1.0,WMA-1.1"/>
+            <symbol name="version.configuration" value="CLDC-1.1"/>
+            <symbol name="SATSA" value="1.0"/>
+            <symbol name="AMS" value="1.0"/>
+            <symbol name="version.profile" value="IMP-NG"/>
+            <symbol name="IMP-NG" value="0.0"/>
+            <symbol name="WMA" value="1.1"/>
+            <symbol name="descriptor" value="Java ME IMP-NG emulator"/>
+            <symbol name="DEVICE_ACCESS" value="1.0"/>
+            <symbol name="JSR179" value="1.0"/>
+            <symbol name="J2ME-WS" value="1.0"/>
+            <symbol name="CLDC" value="1.1"/>
+            <symbol name="OMDA_AP" value="1.0"/>
+            <symbol name="JSR75" value="1.0"/>
+            <symbol name="JSR280" value="1.0"/>
+         </symbolSet>
+      </configuration>
+   </configurations>
+</mtjMetadata>

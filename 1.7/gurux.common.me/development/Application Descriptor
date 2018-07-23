@@ -1,0 +1,6 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Gurux Ltd.
+MIDlet-Jar-URL: gurux.common.me.jar
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: IMP-NG
+MIDlet-Name: gurux.common.me

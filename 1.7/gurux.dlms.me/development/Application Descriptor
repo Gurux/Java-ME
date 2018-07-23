@@ -1,0 +1,6 @@
+MIDlet-Version: 1.0.1
+MIDlet-Vendor: Gurux Ltd.
+MIDlet-Jar-URL: gurux.dlms.me.jar
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
+MIDlet-Name: gurux.dlms.me

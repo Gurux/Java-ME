@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Gurux Ltd.
+MIDlet-Jar-URL: gurux.dlms.client.example.me.jar
+MicroEdition-Configuration: CLDC-1.8
+MIDlet-1: sampleclient,,gurux.dlms.client.sampleclient
+MicroEdition-Profile: IMP-NG
+MIDlet-Name: Gurux DLMS client

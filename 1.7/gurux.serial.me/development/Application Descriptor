@@ -1,0 +1,6 @@
+MIDlet-Jar-URL: gurux.serial.me.jar
+MIDlet-Name: gurux.serial.me
+MIDlet-Vendor: Gurux Ltd.
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.8
+MicroEdition-Profile: MEEP-8.0
